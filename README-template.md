@@ -34,8 +34,8 @@ Add a screenshot of your solution. The easiest way in the Windows this: Alt + Sh
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-flexbox-m26zbsC6Qw)
+- Live Site URL: [Add live site URL here](https://product-preview-vnf1.vercel.app/)
 
 ## My process
 
