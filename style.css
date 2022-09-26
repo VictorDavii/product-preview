@@ -14,6 +14,7 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body{
@@ -118,6 +119,25 @@ button{
 button:hover{
     cursor: pointer;
     background-color: hsl(158, 39%, 17%);;
+}
+
+.attribution{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 1rem 0;
+    font-family: var(--font-Montserrat);
+}
+
+.attribution a{
+    color: var(--color-primary-DarkCyan);
+    font-weight: 500;
+}
+
+.attribution img{
+    width: 20px;
+
 }
 
 @media screen and (max-width: 600px) {
